@@ -1,0 +1,9 @@
+// oMonkey - Create
+
+image_speed = 0;
+walksp = 2;
+
+hsp = 0;
+vsp = 0;
+grv = 0.1;
+hascontrol= true;
