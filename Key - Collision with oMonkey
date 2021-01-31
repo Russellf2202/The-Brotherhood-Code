@@ -1,0 +1,10 @@
+// Key - oMonkey
+
+with(endpoint)
+{
+    
+    if(open_key == other.key_id)
+    audio_play_sound(soBananaGet,5,false);
+    instance_destroy();
+}
+instance_destroy();
