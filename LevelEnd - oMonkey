@@ -1,0 +1,10 @@
+// oLevelEnd - oMonkey
+
+with (oMonkey)
+{
+   if (hascontrol)
+   {
+       hascontrol = false;
+       SlideTransition(TRANS_MODE.GOTO,other.target);
+   }
+}
