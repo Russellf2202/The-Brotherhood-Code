@@ -1,0 +1,4 @@
+// Banana - Begin step - Attach to player
+
+x = oMonkey.x;
+y = oMonkey.y;
