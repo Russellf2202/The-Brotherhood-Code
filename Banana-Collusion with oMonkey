@@ -1,0 +1,4 @@
+// bananapickup - oMonkey - Equip banana
+
+instance_create_layer(oMonkey.x,oMonkey.y,"banana",bananapickup);
+instance_destroy();
