@@ -1,0 +1,3 @@
+// oBGM - Key Press - R
+
+audio_stop_all();
