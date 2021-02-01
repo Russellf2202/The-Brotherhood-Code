@@ -1,0 +1,3 @@
+// Otransition - Key Press - R
+
+SlideTransition(TRANS_MODE.RESTART);

@@ -1,0 +1,6 @@
+// oMenuMusic - Create
+
+// menu music
+audio_play_sound(flatwound___The_Long_Goodbye, 1000, true);
+audio_sound_gain(flatwound___The_Long_Goodbye, 0, 0);
+audio_sound_gain(flatwound___The_Long_Goodbye, 0.5, 1000);

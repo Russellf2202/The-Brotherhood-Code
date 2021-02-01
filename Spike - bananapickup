@@ -1,0 +1,9 @@
+// spike - bananapickup
+
+if(! has_triggered) {
+    has_triggered = true;
+    target = other;
+
+    alarm_set(0, room_speed * 0.5);
+
+}

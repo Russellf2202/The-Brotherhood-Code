@@ -1,0 +1,4 @@
+// oMenuMusic - Key Press - Enter 
+
+// stop music
+audio_sound_gain(flatwound___The_Long_Goodbye, 0, 1000);
